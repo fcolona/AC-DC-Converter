@@ -1,5 +1,11 @@
 # Fonte de Tensão Variável
 
+
+## Integrantes do Grupo
+- Felipe Ferreira Colona - 15636525
+-
+- 
+
 ## Descrição
 O projeto se trata de uma fonte de tensão variável que, ao receber uma corrente alternada (AC), fornece uma corrente direta aproximadamente contínua (DC). Nesse contexto, deve ser possível regular a tensão de saída por meio de um potenciômetro, podendo escolher entre 3V e 12V e mantendo uma corrente de cerca de 100mA. Desse modo, a fonte deve ser capaz de carregar um celular sem causar danos.
 
@@ -30,15 +36,19 @@ O LED é responsável por facilitar a visualização do comportamento do circuit
 O diodo zenner é reponsável por limitar a tensão máxima que passa por ele. No circuito em questão, ele garante que a tensão máxima de saída seja 12V.
 
 #### Transistor
+O transistor é responsável por amplificar o sinal que chega nele, de modo a fornecer 100 mA de corrente ao final do circuito.
 
 #### Potenciômetro
+O potenciômetro é responsável por possibilitar regular a tensão de saída (entre 3V e 12V).
 
 ## Circuito
+![Circuito](circuito.png)
+[Link para o circuito](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgpABZsKBTAWjDACgAnEQlG27FN1608VKmDhsA5iAFUefOdwSEoUThRp8EGVQi1C+VGhkkB3TdrCD9fGsVWQ2F+6teXaD9S68L+gvydsPgAvADcAewAbABcAQykGAB0ARzB6cWgMMDoEFDwwYnz8PDxsZnIqQXT1EM9VP3d3QXDo+MTU9OdDf3repy4mgT73cXhuhCK+yZsDJxdhukEhwXmKKdsKQipNpzAMbQMEaw8dVQgJeChoUkp4e-uIACUGAGcAS1f4gDsAYwYJgZGr5hGtCKUeptAt0-McAhC4eoYutliC7F5xCAWBhoPo8LoaAhcIRCMETjBCLpKXhiJB9qIDthyJcQAATBgAMziAFdYt0mF4lljCHZhmsWPleixtv02K8sdY8FLBWK1Fyoq8AQtlsMlEK1kK-EpoYNFiqAqDZOMwDxekL7V5BOyubyYkwogxWeA1GJYOwLMbhChhNCLMHRYI9WK2L9ZGheoG7Nd4CYQChsNBsDb0lpeKxCcFk3T1FxwUrEWWeuI0PybfJhEwRVW2GEFTKhdL60ZvTKwKIfdcEGwACrCiNxqu0a7pUqzudz4hYmCQGgoImQbaUyh9umLpgIG4YPAISjEfGbmjg5g5a6kYjdQVeM2Obp1lHgGUqMSv9vDN80OB1C9N8vzTYRmnAAA5ACVzYYDPxlR9VGqaC4BoOCwPRc5f0EFCYPQr0kI-YxhjwtCfx2KY31DYienDZsw3Ax0QxUbxMOUVRhkIVi1i41iuNBbpFl1VEXwsf9APomC2KkyTwOjCJ+G4bsANIWhMkcNMlOwNhFPjJtjEgNSAOuaotPjHTFIaFSjMXeNl2sJBcO4WQ2CAA)
 
 ## Design de PCB
 
-## Cálculos
-
 ## Vídeo
 
-## Integrantes do Grupo
+## Cálculos
+![Cálculos Parte1](Calculos1.jpg)
+![Cálculos Parte2](Calculos2.jpg)
