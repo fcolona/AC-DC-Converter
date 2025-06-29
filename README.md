@@ -3,8 +3,8 @@
 
 ## Integrantes do Grupo
 - Felipe Ferreira Colona - 15636525
--
-- 
+- Arthur Martins Pereira - 16855601
+- Gabriel Cordeiro Correa Silva - 16866642
 
 ## Descrição
 O projeto se trata de uma fonte de tensão variável que, ao receber uma corrente alternada (AC), fornece uma corrente direta aproximadamente contínua (DC). Nesse contexto, deve ser possível regular a tensão de saída por meio de um potenciômetro, podendo escolher entre 3V e 12V e mantendo uma corrente de cerca de 100mA. Desse modo, a fonte deve ser capaz de carregar um celular sem causar danos.
