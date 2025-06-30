@@ -11,11 +11,19 @@ O projeto se trata de uma fonte de tensão variável que, ao receber uma corrent
 
 ## Componentes
 
-| Quantidade      | Componente              | Valor   |
-| --------------- | ----------------------- | ------- |
-| 0x              | Placeholder             | R$0,00  |
-| 0x              | Placeholder             | R$0,00  |
-| TOTAL           |                         | R$00,00 |
+| Quantidade      | Componente              | Valor    |
+| --------------- | ----------------------- | -------  |
+| 1x              | Ponte de diodos         | R$ 3,90  |
+| 1x              | Capacitor               | R$ 4,40  |
+| 1x              | Potenciômetro           | R$ 7,00  |
+| 1x              | Diodo Zenner            | R$ 0,50  |
+| 1x              | Transistor 2N2222       | R$ 2,55  |
+| 5x              | Resistores 1/4W         | R$ 0,07  |
+| 1x              | Resistor 2W             | R$ 1,20  |
+| 1x              | LED                     | R$ 0,50  |
+| 1x              | Jumper                  | R$ 0,70  |
+| 1x              | Protoboard              | R$ 21,70 |
+| TOTAL           |                         | R$ 42,80 |
 
 #### Transformador
 O transformador é responsável por diminuir o pico da tensão recebida da tomada de 180V para 18,1V. Essa transformação ocorre por meio da variação do campo magnético nas espiras do componente que causa uma indução de corrente elétrica.
