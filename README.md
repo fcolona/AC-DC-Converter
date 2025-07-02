@@ -35,13 +35,13 @@ A ponte de diodo é responsável por garantir que a corrente flua em somente um 
 O capacitor é responsável por continuar a fornecer tensão ao circuito mesmo nos mementos em que a senoide da tensão está com uma taxa de variação negativa, isto é, está diminuindo. Nesse sentido, o componente armazena carga quando a tensão está alta e libera carga quando a tensão de fora está menor do que a tensão do capacitor.
 
 #### Resistor
-O resistor é responsável por diminuir a tensão elétrica que chega a um outro componente. Isso é feito a fim de não ultrapassar a tensão de operação do componente em questão e mantê-lo funcionando.
+O resistor é responsável por diminuir a corrente elétrica que chega a um outro componente. Isso é feito a fim de não ultrapassar a potência de operação do componente em questão e mantê-lo funcionando.
 
 #### LED
 O LED é responsável por facilitar a visualização do comportamento do circuito. Nesse sentido, o intuito é que ele se mantenha aceso durante todo o período. Assim, indicando que a corrente está de fato contínua (aproximadamente).
 
 #### Diodo Zenner
-O diodo zenner é reponsável por limitar a tensão máxima que passa por ele. No circuito em questão, ele garante que a tensão máxima de saída seja 12V.
+O diodo zenner é reponsável por limitar a tensão máxima. No circuito em questão, ele limita a tensão em 13V que, após passar passar pelo transistor, se torna 12,3V.
 
 #### Transistor
 O transistor é responsável por amplificar o sinal que chega nele, de modo a fornecer 100 mA de corrente ao final do circuito.
