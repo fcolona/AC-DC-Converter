@@ -57,7 +57,9 @@ O potenciômetro é responsável por possibilitar regular a tensão de saída (e
 ![Esquemático](AC-DC-Converter/ac_dc_converter.png)
 ![PCB](AC-DC-Converter/PCB.png)
 
-## Vídeo
+## Imagem e Vídeo
+![Imagem](img-circuito.jpg)
+[![Vídeo](https://img.youtube.com/vi/-x75V-imzEs/hqdefault.jpg)](https://www.youtube.com/watch?v=-x75V-imzEs)
 
 ## Cálculos
 ![Cálculos Parte1](Calculos1.jpg)
